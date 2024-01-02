@@ -22,12 +22,12 @@ msgstr ""
 #: meerk40t/gui/propertypanels/attributes.py:247 meerk40t/moshi/device.py:57
 #: meerk40t/newly/device.py:110
 msgid "Label"
-msgstr ""
+msgstr "Rótulo"
 
 #: meerk40t/balormk/device.py:94 meerk40t/grbl/device.py:260
 #: meerk40t/moshi/device.py:58 meerk40t/newly/device.py:111
 msgid "What is this device called."
-msgstr ""
+msgstr "Como é chamado este dispositivo."
 
 #: meerk40t/balormk/device.py:104 meerk40t/balormk/device.py:357
 #: meerk40t/gui/propertypanels/imageproperty.py:48
@@ -46,242 +46,245 @@ msgstr ""
 #: meerk40t/lihuiyu/gui/lhyaccelgui.py:20
 #: meerk40t/lihuiyu/gui/lhyaccelgui.py:25
 msgid "Enable"
-msgstr ""
+msgstr "Habilitar"
 
 #: meerk40t/balormk/device.py:105
 msgid "Use correction file?"
-msgstr ""
+msgstr "Usar arquivo de correção?"
 
 #: meerk40t/balormk/device.py:117 meerk40t/gui/wxmmain.py:2407
 msgid "File"
-msgstr ""
+msgstr "Arquivo"
 
 #: meerk40t/balormk/device.py:118
 msgid "Provide a correction file for the machine"
-msgstr ""
+msgstr "Forneça um arquivo de correção para a máquina"
 
 #: meerk40t/balormk/device.py:128 meerk40t/device/dummydevice.py:60
 #: meerk40t/grbl/device.py:46 meerk40t/lihuiyu/device.py:48
 #: meerk40t/moshi/device.py:67 meerk40t/newly/device.py:120
 #: meerk40t/ruida/device.py:40
 msgid "Width"
-msgstr ""
+msgstr "Largura"
 
 #: meerk40t/balormk/device.py:129
 msgid "Lens Size"
-msgstr ""
+msgstr "Tamanho da Lente"
 
 #: meerk40t/balormk/device.py:141 meerk40t/balormk/device.py:161
 #: meerk40t/grbl/device.py:68 meerk40t/moshi/device.py:91
 msgid "X-Axis"
-msgstr ""
+msgstr "Eixo X"
 
 #: meerk40t/balormk/device.py:142
 msgid "Offset in the X axis"
-msgstr ""
+msgstr "Deslocamento no eixo X"
 
 #: meerk40t/balormk/device.py:151 meerk40t/balormk/device.py:171
 #: meerk40t/grbl/device.py:79 meerk40t/moshi/device.py:103
 msgid "Y-Axis"
-msgstr ""
+msgstr "Eixo Y"
 
 #: meerk40t/balormk/device.py:152
 msgid "Offset in the Y axis"
-msgstr ""
+msgstr "Deslocamento no eixo Y"
 
 #: meerk40t/balormk/device.py:162
 msgid "Scale the X axis"
-msgstr ""
+msgstr "Escalar o eixo X"
 
 #: meerk40t/balormk/device.py:172
 msgid "Scale the Y axis"
-msgstr ""
+msgstr "Escalar o eixo Y"
 
 #: meerk40t/balormk/device.py:181 meerk40t/grbl/device.py:90
 #: meerk40t/lihuiyu/device.py:128 meerk40t/moshi/device.py:115
 #: meerk40t/newly/device.py:162
 msgid "Flip X"
-msgstr ""
+msgstr "Virar X"
 
 #: meerk40t/balormk/device.py:182
 msgid "Flip the X axis for the Balor device"
-msgstr ""
+msgstr "Inverter o eixo X do dispositivo Balor"
 
 #: meerk40t/balormk/device.py:192 meerk40t/grbl/device.py:102
 #: meerk40t/lihuiyu/device.py:150 meerk40t/moshi/device.py:128
 #: meerk40t/newly/device.py:173
 msgid "Flip Y"
-msgstr ""
+msgstr "Virar Y"
 
 #: meerk40t/balormk/device.py:193 meerk40t/lihuiyu/device.py:151
 msgid "Flip the Y axis for the Balor device"
-msgstr ""
+msgstr "Inverter o eixo Y do dispositivo Balor"
 
 #: meerk40t/balormk/device.py:203 meerk40t/grbl/device.py:114
 #: meerk40t/moshi/device.py:141 meerk40t/newly/device.py:184
 msgid "Swap XY"
-msgstr ""
+msgstr "Trocar XY"
 
 #: meerk40t/balormk/device.py:204 meerk40t/newly/device.py:185
 msgid "Swap the X and Y axis for the device"
-msgstr ""
+msgstr "Trocar os eixos X e Y do dispositivo"
 
 #: meerk40t/balormk/device.py:213 meerk40t/grbl/device.py:315
 #: meerk40t/moshi/device.py:176 meerk40t/newly/device.py:194
 msgid "Curve Interpolation"
-msgstr ""
+msgstr "Interpolação de Curvas"
 
 #: meerk40t/balormk/device.py:215 meerk40t/newly/device.py:196
 msgid "Number of curve interpolation points"
-msgstr ""
+msgstr "Número de pontos de interpolação de curva"
 
 #: meerk40t/balormk/device.py:222 meerk40t/grbl/device.py:336
 #: meerk40t/moshi/device.py:185 meerk40t/newly/device.py:203
 msgid "Run mock-usb backend"
-msgstr ""
+msgstr "Executar o backend mock-usb"
 
 #: meerk40t/balormk/device.py:223 meerk40t/grbl/device.py:337
 #: meerk40t/moshi/device.py:186 meerk40t/newly/device.py:204
 msgid ""
 "This starts connects to fake software laser rather than real one for "
 "debugging."
-msgstr ""
+msgstr "Isso inicia a conexão com um laser de software falso em vez de um real para "
+"depuração."
 
 #: meerk40t/balormk/device.py:234 meerk40t/newly/device.py:215
 msgid "Machine index to select"
-msgstr ""
+msgstr "Índice da máquina para selecionar"
 
 #: meerk40t/balormk/device.py:235 meerk40t/newly/device.py:216
 msgid "Which machine should we connect to? -- Leave at 0 if you have 1 machine."
-msgstr ""
+msgstr "A qual máquina devemos nos conectar? -- Deixe em 0 se você tiver 1 máquina."
 
 #: meerk40t/balormk/device.py:245
 msgid "Footpedal"
-msgstr ""
+msgstr "Pedal"
 
 #: meerk40t/balormk/device.py:246
 msgid "What pin is your foot pedal hooked to on the GPIO"
-msgstr ""
+msgstr "Em que pino o pedal está conectado no GPIO?"
 
 #: meerk40t/balormk/device.py:255
 msgid "Redlight laser"
-msgstr ""
+msgstr "Laser de luz vermelha"
 
 #: meerk40t/balormk/device.py:256
 msgid "What pin is your redlight hooked to on the GPIO"
-msgstr ""
+msgstr "A que pino a luz vermelha está conectada no GPIO?"
 
 #: meerk40t/balormk/device.py:269
 msgid "Redlight travel speed"
-msgstr ""
+msgstr "Velocidade de deslocamento da luz vermelha"
 
 #: meerk40t/balormk/device.py:270
 msgid "Speed of the galvo when using the red laser."
-msgstr ""
+msgstr "Velocidade do galvo ao usar o laser vermelho."
 
 #: meerk40t/balormk/device.py:277
 msgid "X-Offset"
-msgstr ""
+msgstr "Deslocamento X"
 
 #: meerk40t/balormk/device.py:278
 msgid "Offset the redlight positions by this amount in x"
-msgstr ""
+msgstr "Deslocar as posições da luz vermelha por esse valor em x"
 
 #: meerk40t/balormk/device.py:286
 msgid "Y-Offset"
-msgstr ""
+msgstr "Deslocamento Y"
 
 #: meerk40t/balormk/device.py:287
 msgid "Offset the redlight positions by this amount in y"
-msgstr ""
+msgstr "Deslocar as posições da luz vermelha por esse valor em y"
 
 #: meerk40t/balormk/device.py:295
 msgid "Angle Offset"
-msgstr ""
+msgstr "Deslocamento de Ângulo"
 
 #: meerk40t/balormk/device.py:296
 msgid "Offset the redlight positions by this angle, curving around center"
-msgstr ""
+msgstr "Desloque as posições das luzes vermelhas por esse ângulo, curvando-se ao redor do centro"
 
 #: meerk40t/balormk/device.py:306
 msgid "Prefer redlight on"
-msgstr ""
+msgstr "Prefira a luz vermelha acesa"
 
 #: meerk40t/balormk/device.py:307
 msgid ""
 "Redlight preference will turn toggleable redlights on after a job "
 "completes."
 msgstr ""
+"A preferência Redlight ativará as luzes vermelhas alternáveis depois que um trabalho "
+"for concluído."
 
 #: meerk40t/balormk/device.py:321
 msgid "Laser Power"
-msgstr ""
+msgstr "Potência do Laser"
 
 #: meerk40t/balormk/device.py:323 meerk40t/newly/device.py:371
 msgid "What power level do we cut at?"
-msgstr ""
+msgstr "Em que nível de potência cortamos?"
 
 #: meerk40t/balormk/device.py:331 meerk40t/newly/device.py:360
 msgid "Cut Speed"
-msgstr ""
+msgstr "Velocidade de Corte"
 
 #: meerk40t/balormk/device.py:332 meerk40t/newly/device.py:361
 msgid "How fast do we cut?"
-msgstr ""
+msgstr "Com que velocidade cortamos?"
 
 #: meerk40t/balormk/device.py:340
 msgid "Q Switch Frequency"
-msgstr ""
+msgstr "Frequência Q Switch"
 
 #: meerk40t/balormk/device.py:341
 msgid "QSwitch Frequency value"
-msgstr ""
+msgstr "Valor de Frequência do QSwitch"
 
 #: meerk40t/balormk/device.py:348
 #: meerk40t/balormk/gui/baloroperationproperties.py:39
 msgid "Travel Speed"
-msgstr ""
+msgstr "Velocidade de Deslocamento"
 
 #: meerk40t/balormk/device.py:350
 #: meerk40t/balormk/gui/baloroperationproperties.py:40
 msgid "How fast do we travel when not cutting?"
-msgstr ""
+msgstr "A que velocidade viajamos quando não estamos cortando?"
 
 #: meerk40t/balormk/device.py:358
 msgid "Enable using Pulse Width (MOPA)"
-msgstr ""
+msgstr "Ativar usando a Largura de Pulso (MOPA)"
 
 #: meerk40t/balormk/device.py:386
 #: meerk40t/balormk/gui/baloroperationproperties.py:57
 msgid "Set Pulse Width (ns)"
-msgstr ""
+msgstr "Definir a Largura de Pulso (ns)"
 
 #: meerk40t/balormk/device.py:388
 #: meerk40t/balormk/gui/baloroperationproperties.py:58
 msgid "Set the MOPA pulse width setting"
-msgstr ""
+msgstr "Definir a configuração da largura de pulso do MOPA"
 
 #: meerk40t/balormk/device.py:400
 msgid "Laser On"
-msgstr ""
+msgstr "Laser Ligado"
 
 #: meerk40t/balormk/device.py:402
 msgid "Start delay (Start TC) at the beginning of each mark command"
-msgstr ""
+msgstr "Atraso de início (Start TC) no início de cada comando de marca"
 
 #: meerk40t/balormk/device.py:414
 msgid "Laser Off"
-msgstr ""
+msgstr "Laser Desligado"
 
 #: meerk40t/balormk/device.py:416
 msgid "The delay time of the laser shutting down after marking finished"
-msgstr ""
+msgstr "O tempo de atraso do desligamento do laser após o término da marcação"
 
 #: meerk40t/balormk/device.py:428
 #: meerk40t/balormk/gui/baloroperationproperties.py:92
 #: meerk40t/gui/materialtest.py:557
 msgid "Polygon Delay"
-msgstr ""
+msgstr "Atraso do Polígono"
 
 #: meerk40t/balormk/device.py:430
 #: meerk40t/balormk/gui/baloroperationproperties.py:93
@@ -290,163 +293,163 @@ msgstr ""
 
 #: meerk40t/balormk/device.py:440
 msgid "End Delay"
-msgstr ""
+msgstr "Quantidade de atraso entre diferentes pontos no percurso do caminho."
 
 #: meerk40t/balormk/device.py:442
 msgid "Delay amount for the end TC"
-msgstr ""
+msgstr "Valor do atraso para o TC final"
 
 #: meerk40t/balormk/device.py:452
 msgid "Long jump delay"
-msgstr ""
+msgstr "Atraso no salto longo"
 
 #: meerk40t/balormk/device.py:454
 msgid "Delay for a long jump distance"
-msgstr ""
+msgstr "Atraso para uma distância de salto longo"
 
 #: meerk40t/balormk/device.py:463
 msgid "Short jump delay"
-msgstr ""
+msgstr "Atraso de salto curto"
 
 #: meerk40t/balormk/device.py:465
 msgid "Delay for a short jump distance"
-msgstr ""
+msgstr "Atraso para uma distância de salto curta"
 
 #: meerk40t/balormk/device.py:474
 msgid "Long jump distance"
-msgstr ""
+msgstr "Distância do salto longo"
 
 #: meerk40t/balormk/device.py:475
 msgid "Distance divide between long and short jump distances"
-msgstr ""
+msgstr "Divisão de distâncias entre saltos longos e curtos"
 
 #: meerk40t/balormk/device.py:484
 msgid "Open MO delay"
-msgstr ""
+msgstr "Atraso de MO aberta"
 
 #: meerk40t/balormk/device.py:486
 msgid "OpenMO delay in ms"
-msgstr ""
+msgstr "Atraso de MO aberta em ms"
 
 #: meerk40t/balormk/device.py:498
 msgid "First Pulse Killer"
-msgstr ""
+msgstr "Primeiro Pulso Assassino"
 
 #: meerk40t/balormk/device.py:500
 msgid "First Pulse Killer (F.P.K): the lasting time for the first pulse suppress"
-msgstr ""
+msgstr "Primeiro Pulso Assassino (P.P.A): o tempo de duração da supressão do primeiro pulso"
 
 #: meerk40t/balormk/device.py:510
 msgid "PWM Half Period"
-msgstr ""
+msgstr "Meio período PWM"
 
 #: meerk40t/balormk/device.py:511
 msgid "Pulse Period: the frequency of the preionization signal"
-msgstr ""
+msgstr "Pulse Period: the frequency of the preionization signal"
 
 #: meerk40t/balormk/device.py:519
 msgid "PWM Pulse Width"
-msgstr ""
+msgstr "Largura de pulso PWM"
 
 #: meerk40t/balormk/device.py:520
 msgid "Pulse Width: the pulse width of the preionization signal"
-msgstr ""
+msgstr "Pulse Width (Largura de pulso): a largura de pulso do sinal de preionização"
 
 #: meerk40t/balormk/device.py:528
 msgid "Parameter 1"
-msgstr ""
+msgstr "Parâmetro 1"
 
 #: meerk40t/balormk/device.py:537
 msgid "Parameter 2"
-msgstr ""
+msgstr "Parâmetro 2"
 
 #: meerk40t/balormk/device.py:546
 msgid "Timing Mode"
-msgstr ""
+msgstr "Modo de Temporização"
 
 #: meerk40t/balormk/device.py:555
 msgid "Delay Mode"
-msgstr ""
+msgstr "Mod de Atraso"
 
 #: meerk40t/balormk/device.py:564
 msgid "Laser Mode"
-msgstr ""
+msgstr "Modo de Laser"
 
 #: meerk40t/balormk/device.py:573
-msgid "Control Mode"
+msgid "Modo de controle"
 msgstr ""
 
 #: meerk40t/balormk/device.py:582
 msgid "Max Voltage"
-msgstr ""
+msgstr "Tensão Máxima"
 
 #: meerk40t/balormk/device.py:593
 msgid "Min Voltage"
-msgstr ""
+msgstr "Tensão Mínima"
 
 #: meerk40t/balormk/device.py:604
 msgid "T1"
-msgstr ""
+msgstr "T1"
 
 #: meerk40t/balormk/device.py:615
 msgid "T2"
-msgstr ""
+msgstr "T2"
 
 #: meerk40t/balormk/device.py:626
 msgid "Param 1"
-msgstr ""
+msgstr "Parâmetro 1"
 
 #: meerk40t/balormk/device.py:635
 msgid "Param 2"
-msgstr ""
+msgstr "Parâmetro 2"
 
 #: meerk40t/balormk/device.py:644
 msgid "Param 3"
-msgstr ""
+msgstr "Parâmetro 3"
 
 #: meerk40t/balormk/device.py:653
 msgid "Param 4"
-msgstr ""
+msgstr "Parâmetro 4"
 
 #: meerk40t/balormk/device.py:662
 msgid "Input Signal Hold"
-msgstr ""
+msgstr "Retenção do Sinal de Entrada"
 
 #: meerk40t/balormk/device.py:663
 msgid "How long does the input operation need to hold for to count as a pass"
-msgstr ""
+msgstr "Por quanto tempo a operação de entrada precisa ser mantida para contar como uma aprovação"
 
 #: meerk40t/balormk/device.py:672
 msgid "Input Operation Hardware"
-msgstr ""
+msgstr "Hardware de Operação de Entrada"
 
 #: meerk40t/balormk/device.py:673
 msgid "Use hardware based input operation command"
-msgstr ""
+msgstr "Usar o comando de operação de entrada baseado em hardware"
 
 #: meerk40t/balormk/device.py:683 meerk40t/grbl/device.py:149
 #: meerk40t/lihuiyu/device.py:340 meerk40t/moshi/device.py:199
 #: meerk40t/ruida/device.py:83
 msgid "Rotary-Mode active"
-msgstr ""
+msgstr "Modo Rotativo Ativo"
 
 #: meerk40t/balormk/device.py:684 meerk40t/grbl/device.py:150
 #: meerk40t/lihuiyu/device.py:341 meerk40t/moshi/device.py:200
 #: meerk40t/ruida/device.py:84
 msgid "Is the rotary mode active for this device"
-msgstr ""
+msgstr "O modo rotativo está ativo para esse dispositivo"
 
 #: meerk40t/balormk/device.py:691 meerk40t/grbl/device.py:157
 #: meerk40t/lihuiyu/device.py:348 meerk40t/moshi/device.py:207
 #: meerk40t/ruida/device.py:91
 msgid "X-Scale"
-msgstr ""
+msgstr "Escala X"
 
 #: meerk40t/balormk/device.py:692 meerk40t/grbl/device.py:158
 #: meerk40t/lihuiyu/device.py:349 meerk40t/moshi/device.py:208
 #: meerk40t/ruida/device.py:92
 msgid "Scale that needs to be applied to the X-Axis"
-msgstr ""
+msgstr "Escala que precisa ser aplicada ao Eixo X"
 
 #: meerk40t/balormk/device.py:694 meerk40t/balormk/device.py:704
 #: meerk40t/core/elements/element_treeops.py:2168 meerk40t/grbl/device.py:160
@@ -457,43 +460,43 @@ msgstr ""
 #: meerk40t/moshi/device.py:210 meerk40t/moshi/device.py:220
 #: meerk40t/ruida/device.py:94 meerk40t/ruida/device.py:104
 msgid "Scale"
-msgstr ""
+msgstr "Escala"
 
 #: meerk40t/balormk/device.py:701 meerk40t/grbl/device.py:167
 #: meerk40t/lihuiyu/device.py:358 meerk40t/moshi/device.py:217
 #: meerk40t/ruida/device.py:101
 msgid "Y-Scale"
-msgstr ""
+msgstr "Escala Y"
 
 #: meerk40t/balormk/device.py:702 meerk40t/grbl/device.py:168
 #: meerk40t/lihuiyu/device.py:359 meerk40t/moshi/device.py:218
 #: meerk40t/ruida/device.py:102
 msgid "Scale that needs to be applied to the Y-Axis"
-msgstr ""
+msgstr "Escala que precisa ser aplicada ao Eixo Y"
 
 #: meerk40t/balormk/device.py:711 meerk40t/grbl/device.py:177
 #: meerk40t/lihuiyu/device.py:368 meerk40t/moshi/device.py:227
 #: meerk40t/ruida/device.py:111
 msgid "Ignore Home"
-msgstr ""
+msgstr "Ignorar Home"
 
 #: meerk40t/balormk/device.py:712 meerk40t/grbl/device.py:178
 #: meerk40t/lihuiyu/device.py:369 meerk40t/moshi/device.py:228
 #: meerk40t/ruida/device.py:112
 msgid "Ignore Home-Command"
-msgstr ""
+msgstr "Ignorar o comando Home"
 
 #: meerk40t/balormk/device.py:720 meerk40t/grbl/device.py:186
 #: meerk40t/lihuiyu/device.py:377 meerk40t/moshi/device.py:236
 #: meerk40t/ruida/device.py:120
 msgid "Mirror X"
-msgstr ""
+msgstr "Espelhar X"
 
 #: meerk40t/balormk/device.py:721 meerk40t/grbl/device.py:187
 #: meerk40t/lihuiyu/device.py:378 meerk40t/moshi/device.py:237
 #: meerk40t/ruida/device.py:121
 msgid "Mirror the elements on the X-Axis"
-msgstr ""
+msgstr "Espelhar os elementos no Eixo X"
 
 #: meerk40t/balormk/device.py:723 meerk40t/balormk/device.py:733
 #: meerk40t/grbl/device.py:189 meerk40t/grbl/device.py:199
@@ -501,19 +504,19 @@ msgstr ""
 #: meerk40t/moshi/device.py:239 meerk40t/moshi/device.py:249
 #: meerk40t/ruida/device.py:123 meerk40t/ruida/device.py:133
 msgid "Mirror Output"
-msgstr ""
+msgstr "Espelhar Saída"
 
 #: meerk40t/balormk/device.py:730 meerk40t/grbl/device.py:196
 #: meerk40t/lihuiyu/device.py:387 meerk40t/moshi/device.py:246
 #: meerk40t/ruida/device.py:130
 msgid "Mirror Y"
-msgstr ""
+msgstr "Espelhar Y"
 
 #: meerk40t/balormk/device.py:731 meerk40t/grbl/device.py:197
 #: meerk40t/lihuiyu/device.py:388 meerk40t/moshi/device.py:247
 #: meerk40t/ruida/device.py:131
 msgid "Mirror the elements on the Y-Axis"
-msgstr ""
+msgstr "Espelhar os elementos no Eixo Y"
 
 #: meerk40t/balormk/device.py:792
 msgid "runs light on events."
